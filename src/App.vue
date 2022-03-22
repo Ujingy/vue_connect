@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Vue.js 프레임워크 수업입니다.p"/>
+    <HelloWorld msg="Vue.js 프레임워크 수업입니다."/>
   </div>
 </template>
 
